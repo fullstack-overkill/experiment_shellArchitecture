@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import { RouterView } from 'vue-router'
+import { ShellContainer } from './components';
 </script>
 
 <template>
-  <RouterView />
+  <ShellContainer />
 </template>
 
 <style scoped>
